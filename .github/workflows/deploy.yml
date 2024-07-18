@@ -8,10 +8,10 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: test
+  RESOURCE_GROUP_NAME: test-alex
 
   # specify your preferred region
-  REGION: West Europe
+  REGION: eastus
 
   FRONTEND_DOCKER: FeatureFlagsWithContainerApps/Dockerfile
   FRONTEND_IMAGE: frontend
